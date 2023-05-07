@@ -1,0 +1,1 @@
+# lpcopen_lpc1114fn28_ex10_ssp_MCP3202
